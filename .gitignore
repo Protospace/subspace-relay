@@ -103,5 +103,6 @@ ENV/
 *.swo
 
 settings.py
+secrets.py
 data/
 
